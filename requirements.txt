@@ -1,7 +1,10 @@
+#torch
+#torchvision
 ipython
 jupyter
 matplotlib
 numpy
+pandas
 scipy
-#torch
-#torchvision
+#scikit-learn
+statsmodels
