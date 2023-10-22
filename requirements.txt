@@ -1,3 +1,4 @@
+#scikit-learn
 #torch
 #torchvision
 ipython
@@ -5,6 +6,6 @@ jupyter
 matplotlib
 numpy
 pandas
+pmdarima
 scipy
-#scikit-learn
 statsmodels
